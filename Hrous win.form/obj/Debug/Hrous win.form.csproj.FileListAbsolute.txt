@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Hrous win.form\bin\Debug\Hrous win.form.exe.config
+C:\Users\student\source\repos\Hrous win.form\bin\Debug\Hrous win.form.exe
+C:\Users\student\source\repos\Hrous win.form\bin\Debug\Hrous win.form.pdb
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous win.form.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous_win.form.Form1.resources
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous_win.form.Form2.resources
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous_win.form.Properties.Resources.resources
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous win.form.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous win.form.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous win.form.exe
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous win.form.pdb
+C:\Users\student\source\repos\Hrous win.form\obj\Debug\Hrous_win.form.Form3.resources
